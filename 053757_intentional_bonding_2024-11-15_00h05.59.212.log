@@ -1,0 +1,81 @@
+7.8615 	INFO 	Loaded monitor calibration from ['2024_08_09 00:53']
+8.1928 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd380f9cc10>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd380f9cb20>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fd380fc3640>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.1929 	EXP 	window1: backgroundImage = ''
+8.1929 	EXP 	window1: backgroundFit = 'contain'
+8.2085 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2112 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2137 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2168 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2197 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2208 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2227 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2256 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2260 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2265 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2287 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2355 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2371 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2398 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2419 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2426 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2436 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2469 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2478 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2483 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.2515 	DEBUG 	Upload of Texture Font fontname complete
+8.2690 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2725 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2757 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+8.2763 	DEBUG 	Uploading Texture Font fontname to graphics card
+8.2773 	DEBUG 	Upload of Texture Font fontname complete
+8.2827 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+8.2829 	EXP 	window1: recordFrameIntervals = False
+8.4980 	EXP 	window1: recordFrameIntervals = True
+8.6993 	EXP 	Screen (0) actual frame rate measured at 59.21Hz
+8.6994 	EXP 	window1: recordFrameIntervals = False
+9.9092 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9094 	INFO 	keyboard.Keyboard is using iohub backend.
+9.9572 	EXP 	intentional_bonding: status = STARTED
+9.9759 	EXP 	Created Fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+9.9816 	EXP 	Created Polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=True, fillColor=array([-1.    ,  0.0039, -1.    ]), fillColorSpace='rgb', fillRGB=array([-1.    ,  0.0039, -1.    ]), interpolate=True, lineColor=array([-1.    ,  0.0039, -1.    ]), lineColorSpace='rgb', lineRGB=array([-1.    ,  0.0039, -1.    ]), lineWidth=1.0, name='Polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+10.0201 	EXP 	Sound sound_1 set volume 1.000
+10.1487 	EXP 	Created display_text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='display_text', opacity=1, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+10.1627 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.1637 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.1734 	DEBUG 	Upload of Texture Font fontname complete
+10.2037 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2096 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2136 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2172 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2183 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2224 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2250 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2263 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2268 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.2282 	DEBUG 	Upload of Texture Font fontname complete
+10.2459 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2493 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2555 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2603 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2631 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2665 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.2672 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.2754 	DEBUG 	Upload of Texture Font fontname complete
+10.3080 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3134 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3179 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3210 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3217 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3226 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3272 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3327 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+10.3339 	DEBUG 	Uploading Texture Font fontname to graphics card
+10.3354 	DEBUG 	Upload of Texture Font fontname complete
+0.0129 	EXP 	textbox: autoLog = True
+0.6910 	DEBUG 	Saving data for intentional_bonding ExperimentHandler
+0.6919 	INFO 	saved data to /Users/_reemaaaa_18/Downloads/data/053757_intentional_bonding_2024-11-15_00h05.59.212.psydat
+0.6926 	INFO 	saved data to '/Users/_reemaaaa_18/Downloads/data/053757_intentional_bonding_2024-11-15_00h05.59.212.csv'
