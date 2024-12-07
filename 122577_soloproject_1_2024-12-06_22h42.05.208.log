@@ -1,0 +1,83 @@
+12.8708 	INFO 	Loaded monitor calibration from ['2024_08_09 00:53']
+13.3155 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa3990a4b80>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa3990a4a60>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fa398def5e0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.3157 	EXP 	window1: backgroundImage = ''
+13.3157 	EXP 	window1: backgroundFit = 'cover'
+13.3533 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3558 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3586 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3666 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3683 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3723 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3768 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3777 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3785 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3812 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3839 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3863 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3918 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3949 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3977 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.3989 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4043 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4054 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4061 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.4098 	DEBUG 	Upload of Texture Font fontname complete
+13.4298 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4352 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4393 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+13.4399 	DEBUG 	Uploading Texture Font fontname to graphics card
+13.4410 	DEBUG 	Upload of Texture Font fontname complete
+13.4457 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.4458 	EXP 	window1: recordFrameIntervals = False
+13.6579 	EXP 	window1: recordFrameIntervals = True
+13.8417 	EXP 	Screen (0) actual frame rate measured at 59.95Hz
+13.8417 	EXP 	window1: recordFrameIntervals = False
+13.8419 	INFO 	keyboard.Keyboard is using event backend.
+13.8420 	INFO 	keyboard.Keyboard is using event backend.
+13.8420 	EXP 	soloproject_1: status = STARTED
+13.8586 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+13.8660 	EXP 	Created shapestimuli = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='shapestimuli', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([50., 50.]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0172 	DEBUG 	Read csv file with pandas: /Users/_reemaaaa_18/Downloads/stimuli.csv
+0.0192 	DEBUG 	Clearing unnamed columns from /Users/_reemaaaa_18/Downloads/stimuli.csv
+0.0224 	EXP 	Imported /Users/_reemaaaa_18/Downloads/stimuli.csv as conditions, 4 conditions, 20 params
+0.0248 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'Condition': 'low_contrast', 'TargetPosition': 'top-left', 'Shape1': 'square', 'Color1': 'red', 'Shape2': 'square', 'Color2': 'red', 'Shape3': 'square', 'Color3': 'red', 'Shape4': 'square', 'Color4': 'red', 'Shape5': 'square', 'Color5': 'red', 'Shape6': 'square', 'Color6': 'red', 'Shape7': 'square', 'Color7': 'red', 'Shape8': 'square', 'Color8': 'red', 'Shape9': 'circle', 'Color9': 'red', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0261 	WARNING 	Monitor specification not found. Creating a temporary one...
+0.3363 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3378 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3396 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3418 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3437 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3449 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3464 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3484 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3491 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3499 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3518 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3533 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3549 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3567 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3581 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3597 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3615 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3625 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3635 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3659 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3670 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3678 	DEBUG 	Uploading Texture Font fontname to graphics card
+0.3714 	DEBUG 	Upload of Texture Font fontname complete
+0.3910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3934 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3956 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+0.3961 	DEBUG 	Uploading Texture Font fontname to graphics card
+0.3973 	DEBUG 	Upload of Texture Font fontname complete
+0.5513 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa3990a4b80>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fa3990a4a60>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([-1, -1, -1]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fa396d24d00>, multiSample=False, name='window1', numSamples=2, pos=(320, 150), screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='pix', useFBO=False, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+0.5514 	EXP 	window1: backgroundImage = None
+0.5514 	EXP 	window1: backgroundFit = 'cover'
+0.5734 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, draggable=False, fillColor=array([ 1, -1, -1]), fillColorSpace='rgb', fillRGB=array([ 1, -1, -1]), interpolate=True, lineColor=array([-1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([-1, -1, -1]), lineWidth=1.5, name='unnamed Circle', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...))
+9.1619 	DATA 	Keypress: space
+9.7439 	DEBUG 	Saving data for soloproject_1 ExperimentHandler
+9.7450 	INFO 	saved data to /Users/_reemaaaa_18/Desktop/data/122577_soloproject_1_2024-12-06_22h42.05.208.psydat
+9.7458 	INFO 	saved data to '/Users/_reemaaaa_18/Desktop/data/122577_soloproject_1_2024-12-06_22h42.05.208.csv'

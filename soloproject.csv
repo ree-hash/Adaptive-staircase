@@ -1,0 +1,6 @@
+Participant,Trial,Condition,Response Time (RT in sec),Accuracy
+5,1,High-Contrast,0.84,1
+5,2,Low-Contrast,1.45,0
+5,3,High-Contrast,0.79,1
+5,4,Low-Contrast,1.55,1
+5,5,High-Contrast,0.83,1
